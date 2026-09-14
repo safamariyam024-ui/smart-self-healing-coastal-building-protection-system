@@ -22,7 +22,7 @@ st.set_page_config(
 # HEADER
 # ============================================================
 
-st.title("🌊 SELF-HEALING SMART COASTAL PROTECTION SYSTEM")
+st.title("🌊 SELF-HEALING SMART COASTAL BUILDING PROTECTION SYSTEM")
 
 st.markdown(
     "### AI-Assisted Structural Monitoring, Risk Assessment & Safety Decision Platform"
