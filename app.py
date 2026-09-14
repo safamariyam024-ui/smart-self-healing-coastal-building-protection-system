@@ -403,7 +403,7 @@ if risk_result["risk"] == "LOW RISK":
 
     st.write(
         "Small suitable damage detected. "
-        "A microcapsule-based healing process can be initiated."
+        "A simulated microcapsule-based healing process can be initiated."
     )
 
 
