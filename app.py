@@ -47,9 +47,9 @@ scenario = st.sidebar.radio(
 )
 
 image_files = {
-    "Small Crack": "crack_images/small_crack.jpg.jpeg",
-    "Medium Crack": "crack_images/medium_crack.jpg.jpeg",
-    "Large Crack": "crack_images/large_crack.jpg.jpeg"
+     "Small Crack": "crack_images/small_crack.jpeg",
+     "Medium Crack": "crack_images/medium_crack.jpeg",
+     "Large Crack": "crack_images/large_crack.jpeg"
 }
 
 image_path = image_files[scenario]
